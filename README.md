@@ -1,4 +1,4 @@
-# TechnoHacks_Task_01
+# TechnoHacks_Tasks
 
 Introduction
 Welcome to the Calculator project in Java! This project was created as part of my internship at TechnoHacks, where I had the opportunity to apply and enhance my Java programming skills. The calculator is a simple yet functional command-line application designed to perform basic arithmetic operations.
